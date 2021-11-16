@@ -1,0 +1,15 @@
+body {
+    font-family: "Yu Gothic", "Meiryo", sans-serif;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.zero {
+    padding: 0;
+}
+
+h1,h2 {
+    font-weight: 100;
+}
